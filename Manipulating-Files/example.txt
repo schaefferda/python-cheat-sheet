@@ -1,0 +1,2 @@
+This file contains lines of text that we manipulate using Python's file handling capabilities
+Here's a newly added line to the text file.
